@@ -1,0 +1,13 @@
+﻿  Math.cpp
+C:\main\DEV\Ma\APPma _v2.02_refactor\Sourse\Math\sourse\Math.cpp(35,13): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\main\DEV\Ma\APPma _v2.02_refactor\Sourse\Math\sourse\Math.cpp(36,13): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\main\DEV\Ma\APPma _v2.02_refactor\Sourse\Math\sourse\Math.cpp(45,13): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\main\DEV\Ma\APPma _v2.02_refactor\Sourse\Math\sourse\Math.cpp(46,13): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\main\DEV\Ma\APPma _v2.02_refactor\Sourse\Math\sourse\Math.cpp(56,13): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\main\DEV\Ma\APPma _v2.02_refactor\Sourse\Math\sourse\Math.cpp(57,13): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\main\DEV\Ma\APPma _v2.02_refactor\Sourse\Math\sourse\Math.cpp(67,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\main\DEV\Ma\APPma _v2.02_refactor\Sourse\Math\sourse\Math.cpp(70,17): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\main\DEV\Ma\APPma _v2.02_refactor\Sourse\Math\sourse\Math.cpp(76,14): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\main\DEV\Ma\APPma _v2.02_refactor\Sourse\Math\sourse\Math.cpp(80,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\main\DEV\Ma\APPma _v2.02_refactor\Sourse\Math\sourse\Math.cpp(151,13): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+  Math.vcxproj -> C:\main\DEV\Ma\APPma _v2.02_refactor\Debug\Math.lib
