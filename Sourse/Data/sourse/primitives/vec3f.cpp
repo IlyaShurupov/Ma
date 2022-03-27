@@ -1,5 +1,5 @@
 #include "vec3f.h"
-#include "MAth.h"
+#include "MaMAth.h"
 
 vec3f& vec3f::operator*=(float val)
 {

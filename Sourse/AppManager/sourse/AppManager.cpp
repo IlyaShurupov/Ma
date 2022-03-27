@@ -19,14 +19,14 @@ _AppManager* APM_p;
 
 DLLEXPORT void APM_OnStart(_AppManager* APM)
 {
-	_CrtSetDbgFlag(_CRTDBG_ALLOC_MEM_DF | _CRTDBG_LEAK_CHECK_DF);
+	//_CrtSetDbgFlag(_CRTDBG_ALLOC_MEM_DF | _CRTDBG_LEAK_CHECK_DF);
 	APM_p = APM;
 	
 }
 
 DLLEXPORT void APM_OnEnd()
 {
-	_CrtDumpMemoryLeaks();
+	//_CrtDumpMemoryLeaks();
 }
 
 DLLEXPORT void APM_LoopIn()

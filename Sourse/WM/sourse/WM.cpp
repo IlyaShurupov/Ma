@@ -9,7 +9,6 @@
 #include "KeyConfig.h"
 
 _WinManager* WM_p;
-_Data* Data_p;
 
 DLLEXPORT bool WM_close_command()
 {

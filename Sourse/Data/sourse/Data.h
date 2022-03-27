@@ -5,7 +5,7 @@
 #include "primitives/timer.h"
 #include "primitives/ray.h"
 #include "RND_engine.h"
-#include <GLFW/glfw3.h> // Get rid of this some time
+#include "GLFW/glfw3.h" // Get rid of this some time
 
 // ------------------Struct Data------------------------ //
 
@@ -85,3 +85,5 @@ struct _Data
 	_DA_MeshObjects DA_MeshObjects;   
 	_Light Light;
 };
+
+extern _Data* Data_p;

@@ -4,7 +4,7 @@
 
 //#include "AppManager.h"
 #include "Data.h"
-#include "Math.h"
+#include "MaMath.h"
 
 DLLEXPORT void OPselect(int mx, int my, int width, int height);
 DLLEXPORT void RotCamera(float angel, char dir, float focusScale);

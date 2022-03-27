@@ -1,9 +1,7 @@
 
 #include "Render.h"
-#include "Math.h"
+#include "MaMath.h"
 #include "../sourse/primitives/ray.h"
-
-_Data* Data_p;
 
 DLLEXPORT void RND_init(_Data* Data)
 {

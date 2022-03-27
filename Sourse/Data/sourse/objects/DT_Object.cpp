@@ -1,5 +1,5 @@
 #include "DT_Object.h"
-#include "Math.h"
+#include "MaMath.h"
 
 // ---------------- _DAI_ -------------------- //
 
@@ -54,7 +54,6 @@ _DAI_Object::_DAI_Object(char Objname, _DAI_Object* lastItem, int i)
 
 void _DAI_Object::rot(vec3f* axs_dir, vec3f* axs_pos, float angle)
 {
-	printf("");
 	for (int i = 0; i < 3; i++) {
 		(&unit_vx)[i] += Position;
 		vec3f* vec = &(&unit_vx)[i];
